@@ -13,7 +13,7 @@ For more information about this software please read:
 
 ## Compile guide
 
-  1. Install [Libneurosuite](https://github.com/natuneuro/neurosuite) and [LibKlustersShared](https://github.com/natuneuro/LibKlustersShared) before compilling NDManager
+  1. Install [Libneurosuite](https://github.com/natuneuro/neurosuite) and [LibKlustersShared](https://github.com/natuneuro/LibKlustersShared) before compiling NDManager
   
   2. Go to `/NDManager` directory and type:
   ```
